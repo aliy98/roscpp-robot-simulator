@@ -103,5 +103,4 @@ The rosgraph would look like this:
       else print("error")
     }
   }
-  
 ```
