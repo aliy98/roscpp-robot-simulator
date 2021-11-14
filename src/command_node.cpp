@@ -6,7 +6,7 @@ int main (int argc, char **argv)
 	// initializing the command node
 	ros::init(argc, argv, "command_node");  
 	ros::NodeHandle nh;
-    ros::Publisher pub;
+    	ros::Publisher pub;
 	pub = nh.advertise<std_msgs::Float32>("/command",1);  //to send commands to the controller node
 	char buffer[80];
 
