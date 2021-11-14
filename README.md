@@ -1,9 +1,5 @@
 # roscpp robot simulator
 This is a simple rospackage to simulate and control a robot.
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KP1wJ6qN2e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
   
 ## Installing and runnning 
 Here is the instruction for using the package:
