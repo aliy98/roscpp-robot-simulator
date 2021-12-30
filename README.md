@@ -37,6 +37,7 @@ The rosgraph would look like this:
 
 ## Software Architecture
 ![Slide1](https://user-images.githubusercontent.com/65722399/147790186-718db308-682d-43e7-93ac-284690520e90.JPG)
+
 Software architecture in this project is based on two nodes:
 1. Command Node: Gets robot speed or reset position request from user and publishes them on command topic
 2. Controller Node: Subscribes command and base_scan topics and publishes the robot control signal with respect to detected obstacles to cmd_vel topic. 
