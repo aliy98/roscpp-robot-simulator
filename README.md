@@ -1,4 +1,4 @@
-# roscpp robot simulator
+# roscpp-robot-simulator
 This is a simple rospackage to simulate and control a robot.
 
 [![Screenshot from 2021-11-15 02-10-46](https://user-images.githubusercontent.com/65722399/141701585-c58e8d77-3398-42c8-b348-b9ff476ac046.png)
